@@ -67,7 +67,7 @@ Use the API for predictions or integration with other systems.
 
 * DHANYASHREE G (Madhivadani2k2)
 * KALPANA K (KALPANA0804)
-* LEKHASHREE A
+* LEKHASHREE A (Lekhaaru01)
 * ARIVUCHUDAR K (ARIVUCHUDAR27)
 * PAVITHRA J (pavithra)
 
