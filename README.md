@@ -77,6 +77,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Acknowledgments
 
-Organizers of the AI Hackathon.
+Organizers of the EY-Techathon-5.0.
 
 Mentors and teammates for their support.
